@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adminpanel/static/css/main.f050c78d.css",
+    "main.js": "/adminpanel/static/js/main.a765940b.js",
+    "static/media/img1.png": "/adminpanel/static/media/img1.a0fca9c51749c1ee3db5.png",
+    "static/media/flag.jpg": "/adminpanel/static/media/flag.fe79135817e16833f496.jpg",
+    "index.html": "/adminpanel/index.html",
+    "main.f050c78d.css.map": "/adminpanel/static/css/main.f050c78d.css.map",
+    "main.a765940b.js.map": "/adminpanel/static/js/main.a765940b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f050c78d.css",
+    "static/js/main.a765940b.js"
+  ]
+}
